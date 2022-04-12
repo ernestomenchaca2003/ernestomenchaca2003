@@ -1,4 +1,4 @@
-<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" align="center" alt="coding" width="100%" height="20" src="https://t4.ftcdn.net/jpg/03/40/60/71/240_F_340607159_4hQZvz4h2tPe9jt7fZRJYIq7x8CWL7GG.jpg"/></p>
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" align="center" alt="coding" width="100%" height="200" src="https://t4.ftcdn.net/jpg/03/40/60/71/240_F_340607159_4hQZvz4h2tPe9jt7fZRJYIq7x8CWL7GG.jpg"/></p>
 
 
 <h1 align="center">Hi 👋, I'm Ernesto Menchaca</h1>
