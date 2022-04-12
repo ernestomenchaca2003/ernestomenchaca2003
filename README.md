@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernesto Menchaca</h1>
 <h3 align="center">A passionate DevOps Engineer from Mexico</h3>
+<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0_YwK49LGW-uv8eNc8fAyy&ust=1649820381313000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjv7IvKjfcCFQAAAAAdAAAAABAJ"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestomenchaca2003&label=Profile%20views&color=0e75b6&style=flat" alt="ernestomenchaca2003" /> </p>
 
