@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernestomenchaca2003" alt="ernestomenchaca2003" /></a> </p>
 
-- 🔭 I’m currently working on **Logotipo del comercio ClickIT DevOps & Software Development**
+- 🔭 I’m currently working on **ClickIT DevOps & Software Development**
 
 - 🌱 I’m currently learning **Go, Terraform, Ansible**
 
